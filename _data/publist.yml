@@ -1,76 +1,908 @@
-- title: "Quantitative and Real‐Time Control of 3D Printing Material Flow Through Deep Learning"
-  description:
-  authors: D.A.J. Brion, S.W. Pattinson
-  link:
-    url: https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200153
-    display:  "DOI: 10.1002/aisy.202200153" 
+---
+references:
+- accessed:
+    - year: 2025
+      month: 9
+      day: 26
+  author:
+    - family: Huang
+      given: Yi
+    - family: Zhong
+      given: Yuwei
+    - family: Lu
+      given: Hongfei
+    - family: Jin
+      given: Kai
+    - family: Zhang
+      given: Yue
+    - family: Yu
+      given: Lin
+    - family: Liu
+      given: Jinliang
+    - family: Zhu
+      given: Xiaohui
+    - family: Wu
+      given: Yihan
+  container-title: ACS Applied Materials & Interfaces
+  container-title-short: ACS Appl. Mater. Interfaces
+  DOI: 10.1021/acsami.5c17095
+  ISSN: 1944-8244, 1944-8252
+  issued:
+    - year: 2025
+      month: 9
+      day: 25
+  license: https://doi.org/10.15223/policy-029
+  page: acsami.5c17095
+  title: >-
+    In Situ Construction of Upconverting Nano-Bacteria Biohybrids via Biomimetic
+    Mineralization for Synergistic Antitumor Phototherapy
+  URL: https://pubs.acs.org/doi/10.1021/acsami.5c17095
 
-- title: "Generalisable 3D printing error detection and correction via multi-head neural networks"
-  description:
-  authors: D.A.J. Brion, S.W. Pattinson
-  link:
-    url: https://www.nature.com/articles/s41467-022-31985-y
-    display:  "DOI: 10.1038/s41467-022-31985-y" 
+- accessed:
+    - year: 2025
+      month: 1
+      day: 16
+  author:
+    - family: Jin
+      given: Kai
+    - family: Huang
+      given: Yi
+    - family: Che
+      given: Hailong
+    - family: Wu
+      given: Yihan
+  container-title: Microbial Biotechnology
+  container-title-short: Microbial Biotechnology
+  DOI: 10.1111/1751-7915.70080
+  ISSN: 1751-7915, 1751-7915
+  issue: '1'
+  issued:
+    - year: 2025
+      month: 1
+  page: e70080
+  title: >-
+    Engineered Bacteria for Disease Diagnosis and Treatment Using Synthetic
+    Biology
+  URL: https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70080
+  volume: '18'
 
-- title: "Automated recognition and correction of warp deformation in extrusion additive manufacturing"
-  description:
-  authors: D.A.J. Brion, M. Shen, S.W. Pattinson
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S2214860422002378
-    display:  "DOI: 10.1016/j.addma.2022.102838" 
- 
-- title: "Printed Materials with Locally Tailored Elasticity for Compliant Wearable and Implantable Devices"
-  description:
-  authors: S.W. Pattinson, M.E. Huber, S. Kim, J. Lee, S. Grunsfeld, R. Roberts, G. Dreifus, C. Meier, L. Liu, N. Hogan,  A.J. Hart
-  link:
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201901815
-    display:  "DOI: 10.1002/adfm.201901815"
-  
-- title: "Additive Manufacturing of Cellulosic Materials with Robust Mechanics and Antimicrobial Functionality"
-  description:
-  authors: S.W. Pattinson, A.J. Hart
-  link:
-    url: http://onlinelibrary.wiley.com/doi/10.1002/admt.201600084/abstract
-    display:  "DOI: 10.1002/admt.201600084"
+- accessed:
+    - year: 2023
+      month: 7
+      day: 10
+  author:
+    - family: Jin
+      given: Chenyang
+    - family: Xu
+      given: Wei
+    - family: Jin
+      given: Kai
+    - family: Yu
+      given: Lin
+    - family: Lu
+      given: Hongfei
+    - family: Liu
+      given: Zhen
+    - family: Liu
+      given: Jinliang
+    - family: Zhu
+      given: Xiaohui
+    - family: Wu
+      given: Yihan
+    - family: Zhang
+      given: Yong
+  container-title: Inorganic Chemistry Frontiers
+  container-title-short: Inorg. Chem. Front.
+  DOI: 10.1039/D3QI00688C
+  ISSN: 2052-1553
+  issued:
+    - year: 2023
+  page: 10.1039.D3QI00688C
+  title: 'Microbial Biosynthesis of Quantum Dots: Regulation and Application'
+  title-short: Microbial Biosynthesis of Quantum Dots
+  URL: http://xlink.rsc.org/?DOI=D3QI00688C
 
-- title: "Real-Time Environmental TEM Investigation of Self-Organization and Mechanical Competition in Carbon Nanotube Forest Growth"
-  description:
-  authors: B. Viswanath, M. Bedewy, E.R. Meshot, S.W. Pattinson, E.S. Polsen, F. Laye, D.N. Zakharov, E.A. Stach, A.J. Hart
-  link:
-    url: http://pubs.acs.org/doi/abs/10.1021/acsnano.6b07251?src=recsys
-    display:  "DOI: 10.1021/acsnano.6b07251"
-    
-- title: "Fast Imaging of Carbon Nanotube Growth by Environmental TEM"
-  description:
-  authors: D. N. Zakharov, M. Bedewy, V. Balakrishnan, S.W. Pattinson, E. R. Meshot, A. J. Hart and E. A. Stach
-  link:
-    url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1431927615012416
-    display:  "DOI: 10.1017/S1431927615012416"
+- accessed:
+    - year: 2025
+      month: 1
+      day: 15
+  author:
+    - family: Jin
+      given: Kai
+    - family: Yu
+      given: Lin
+    - family: Zhang
+      given: Yue
+    - family: Niu
+      given: Luqi
+    - family: Huang
+      given: Yi
+    - family: Zhang
+      given: Yong
+    - family: Wu
+      given: Yihan
+  container-title: Angewandte Chemie International Edition
+  container-title-short: Angew Chem Int Ed
+  DOI: 10.1002/anie.202414347
+  ISSN: 1433-7851, 1521-3773
+  issue: '2'
+  issued:
+    - year: 2025
+      month: 1
+      day: 10
+  page: e202414347
+  title: >-
+    A Microrobotic System Based on Engineered Bacteria for Targeted Self‐Driven
+    Photodynamic Therapy
+  URL: https://onlinelibrary.wiley.com/doi/10.1002/anie.202414347
+  volume: '64'
 
-- title: "High-Speed Roll-to-Roll Manufacturing of Graphene using a Concentric Tube CVD Reactor"
-  description:
-  authors: E. Polsen, D. McNerny, B. Viswanath, S.W. Pattinson, A.J. Hart
-  link:
-    url: https://www.nature.com/articles/srep10257
-    display:  "DOI: 10.1038/srep10257"
-    
-- title: "Mechanism and Enhanced Yield of Carbon Nanotube Growth on Stainless Steel by Oxygen-Induced Surface Reconstruction"
-  description:
-  authors: S.W. Pattinson, B. Viswanath, D. Zakharov, J. Li, E.A. Stach, A.J. Hart
-  link:
-    url: http://pubs.acs.org/doi/abs/10.1021/cm504209u
-    display:  "DOI: 10.1021/cm504209u"
+- accessed:
+    - year: 2022
+      month: 3
+      day: 16
+  author:
+    - family: Jin
+      given: Kai
+    - family: Jin
+      given: Chenyang
+    - family: Wu
+      given: Yihan
+  container-title: Carbohydrate Polymers
+  container-title-short: Carbohydrate Polymers
+  DOI: 10.1016/j.carbpol.2022.119171
+  ISSN: '01448617'
+  issued:
+    - year: 2022
+      month: 5
+  page: '119171'
+  title: >-
+    Synthetic Biology-Powered Microbial Co-Culture Strategy and Application of
+    Bacterial Cellulose-Based Composite Materials
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0144861722000753
+  volume: '283'
 
-- title: "Crystal Engineering with Graphene"
-  description:
-  authors: P. Gebhardt, S.W. Pattinson, Z. Ren, J. Elliott, D. Cooke, D. Ede
-  link:
-    url: http://pubs.rsc.org/en/content/articlelanding/2014/nr/c4nr00320a#!divAbstract
-    display:  "DOI: 10.1039/C4NR00320A "
+- accessed:
+    - year: 2022
+      month: 3
+      day: 16
+  author:
+    - family: Lan
+      given: Ying
+    - family: Zhu
+      given: Xiaohui
+    - family: Tang
+      given: Ming
+    - family: Wu
+      given: Yihan
+    - family: Zhang
+      given: Jing
+    - family: Liu
+      given: Jinliang
+    - family: Zhang
+      given: Yong
+  container-title: Nanoscale
+  container-title-short: Nanoscale
+  DOI: 10.1039/C9NR10453D
+  ISSN: 2040-3364, 2040-3372
+  issue: '14'
+  issued:
+    - year: 2020
+  page: 7875-7887
+  title: >-
+    Construction of a Near-Infrared Responsive Upconversion Nanoplatform Against
+    Hypoxic Tumors Via No-Enhanced Photodynamic Therapy
+  URL: http://xlink.rsc.org/?DOI=C9NR10453D
+  volume: '12'
 
-- title: "En Route to Controlled Catalytic CVD Synthesis of Densely Packed and Vertically Aligned Nitrogen-Doped Carbon Nanotube Arrays"
-  description:
-  authors: S. Boncel, S.W. Pattinson, V. Geiser, M.S.P. Shaffer, K.K.K. Koziol
-  link:
-    url: https://www.beilstein-journals.org/bjnano/articles/5/24
-    display:  "DOI: 10.3762/bjnano.5.24"
+- accessed:
+    - year: 2025
+      month: 1
+      day: 15
+  author:
+    - family: Li
+      given: Changfu
+    - family: Li
+      given: Yuanjun
+    - family: Wang
+      given: Jinxu
+    - family: Lu
+      given: Fengliu
+    - family: Zheng
+      given: Lifen
+    - family: Yang
+      given: Lu
+    - family: Sun
+      given: Wenwen
+    - family: Ro
+      given: Dae‐Kyun
+    - family: Qu
+      given: Xudong
+    - family: Wu
+      given: Yihan
+    - family: Zhang
+      given: Yansheng
+  container-title: The Plant Journal
+  container-title-short: The Plant Journal
+  DOI: 10.1111/tpj.17199
+  ISSN: 0960-7412, 1365-313X
+  issued:
+    - year: 2024
+      month: 12
+      day: 6
+  page: tpj.17199
+  title: >-
+    An Independent Biosynthetic Route to Frame a Xanthanolide‐Type Sesquiterpene
+    Lactone in Asteraceae
+  URL: https://onlinelibrary.wiley.com/doi/10.1111/tpj.17199
+
+- accessed:
+    - year: 2025
+      month: 1
+      day: 15
+  author:
+    - family: Li
+      given: Zhezhe
+    - family: Zhang
+      given: Yue
+    - family: Wang
+      given: Suzhen
+    - family: Wu
+      given: Yihan
+    - family: Che
+      given: Hailong
+  container-title: ACS Macro Letters
+  container-title-short: ACS Macro Lett.
+  DOI: 10.1021/acsmacrolett.4c00687
+  ISSN: 2161-1653, 2161-1653
+  issue: '12'
+  issued:
+    - year: 2024
+      month: 12
+      day: 17
+  license: https://doi.org/10.15223/policy-029
+  page: 1691-1697
+  title: >-
+    Rational Design of Self-Reporting Polymersomes for the Controlled Release of
+    Sulfur Dioxide
+  URL: https://pubs.acs.org/doi/10.1021/acsmacrolett.4c00687
+  volume: '13'
+
+- accessed:
+    - year: 2023
+      month: 7
+      day: 10
+  author:
+    - family: Lu
+      given: Hongfei
+    - family: Niu
+      given: Luqi
+    - family: Yu
+      given: Lin
+    - family: Jin
+      given: Kai
+    - family: Zhang
+      given: Jing
+    - family: Liu
+      given: Jinliang
+    - family: Zhu
+      given: Xiaohui
+    - family: Wu
+      given: Yihan
+    - family: Zhang
+      given: Yong
+  container-title: Journal of Controlled Release
+  container-title-short: Journal of Controlled Release
+  DOI: 10.1016/j.jconrel.2023.06.009
+  ISSN: '01683659'
+  issued:
+    - year: 2023
+      month: 8
+  page: 133-148
+  title: Cancer Phototherapy with Nano-Bacteria Biohybrids
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0168365923003796
+  volume: '360'
+
+- accessed:
+    - year: 2018
+      month: 3
+      day: 14
+  author:
+    - family: Mao
+      given: Dainan
+    - family: Bushin
+      given: Leah B.
+    - family: Moon
+      given: Kyuho
+    - family: Wu
+      given: Yihan
+    - family: Seyedsayamdost
+      given: Mohammad R.
+  container-title: Proceedings of the National Academy of Sciences
+  container-title-short: Proc. Natl. Acad. Sci. U.S.A.
+  DOI: 10.1073/pnas.1619529114
+  ISSN: 0027-8424, 1091-6490
+  issue: '14'
+  issued:
+    - year: 2017
+      month: 4
+      day: 4
+  page: E2920-8
+  title: >-
+    Discovery of *scmR* as a Global Regulator of Secondary Metabolism and
+    Virulence in *Burkholderia Thailandensis* E264
+  URL: http://www.pnas.org/lookup/doi/10.1073/pnas.1619529114
+  volume: '114'
+
+- accessed:
+    - year: 2019
+      month: 3
+      day: 6
+  author:
+    - family: Mao
+      given: Dainan
+    - family: Okada
+      given: Bethany K
+    - family: Wu
+      given: Yihan
+    - family: Xu
+      given: Fei
+    - family: Seyedsayamdost
+      given: Mohammad R
+  container-title: Current Opinion in Microbiology
+  DOI: 10.1016/j.mib.2018.05.001
+  ISSN: '13695274'
+  issued:
+    - year: 2018
+      month: 10
+  page: 156-163
+  title: Recent Advances in Activating Silent Biosynthetic Gene Clusters in Bacteria
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S1369527418300572
+  volume: '45'
+
+- accessed:
+    - year: 2024
+      month: 4
+      day: 17
+  author:
+    - family: Niu
+      given: Luqi
+    - family: Yu
+      given: Lin
+    - family: Jin
+      given: Chenyang
+    - family: Jin
+      given: Kai
+    - family: Liu
+      given: Zhen
+    - family: Zhu
+      given: Tao
+    - family: Zhu
+      given: Xiaohui
+    - family: Zhang
+      given: Yong
+    - family: Wu
+      given: Yihan
+  container-title: Angewandte Chemie International Edition
+  container-title-short: Angew Chem Int Ed
+  DOI: 10.1002/anie.202315251
+  ISSN: 1433-7851, 1521-3773
+  issue: '3'
+  issued:
+    - year: 2024
+      month: 1
+      day: 15
+  page: e202315251
+  title: >-
+    Living Materials Based Dynamic Information Encryption via Light‐Inducible
+    Bacterial Biosynthesis of Quantum Dots
+  URL: https://onlinelibrary.wiley.com/doi/10.1002/anie.202315251
+  volume: '63'
+
+- accessed:
+    - year: 2019
+      month: 3
+      day: 6
+  author:
+    - family: Okada
+      given: Bethany K.
+    - family: Wu
+      given: Yihan
+    - family: Mao
+      given: Dainan
+    - family: Bushin
+      given: Leah B.
+    - family: Seyedsayamdost
+      given: Mohammad R.
+  container-title: ACS Chemical Biology
+  DOI: 10.1021/acschembio.6b00447
+  ISSN: 1554-8929, 1554-8937
+  issue: '8'
+  issued:
+    - year: 2016
+      month: 8
+      day: 19
+  page: 2124-2130
+  title: >-
+    Mapping the Trimethoprim-Induced Secondary Metabolome of *Burkholderia
+    thailandensis*
+  URL: http://pubs.acs.org/doi/10.1021/acschembio.6b00447
+  volume: '11'
+
+- accessed:
+    - year: 2022
+      month: 3
+      day: 16
+  author:
+    - family: Wang
+      given: Rurun
+    - family: Gallant
+      given: Étienne
+    - family: Wilson
+      given: Maxwell Z.
+    - family: Wu
+      given: Yihan
+    - family: Li
+      given: Anran
+    - family: Gitai
+      given: Zemer
+    - family: Seyedsayamdost
+      given: Mohammad R.
+  container-title: Cell Chemical Biology
+  container-title-short: Cell Chemical Biology
+  DOI: 10.1016/j.chembiol.2021.08.002
+  ISSN: '24519456'
+  issued:
+    - year: 2021
+      month: 8
+  page: S2451945621003640
+  title: >-
+    Algal p-Coumaric Acid Induces Oxidative Stress and Siderophore Biosynthesis
+    in the Bacterial Symbiont *Phaeobacter inhibens*
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S2451945621003640
+
+- accessed:
+    - year: 2025
+      month: 9
+      day: 26
+  author:
+    - family: Wang
+      given: Beilun
+    - family: Lin
+      given: Peijun
+    - family: Zhong
+      given: Yuwei
+    - family: Tan
+      given: Xiao
+    - family: Shen
+      given: Yangyang
+    - family: Huang
+      given: Yi
+    - family: Jin
+      given: Kai
+    - family: Zhang
+      given: Yan
+    - family: Zhan
+      given: Ying
+    - family: Shen
+      given: Dian
+    - family: Wang
+      given: Meng
+    - family: Yu
+      given: Zhou
+    - family: Wu
+      given: Yihan
+  container-title: Nature Microbiology
+  container-title-short: Nat Microbiol
+  DOI: 10.1038/s41564-024-01907-3
+  ISSN: 2058-5276
+  issue: '2'
+  issued:
+    - year: 2025
+      month: 1
+      day: 17
+  page: 332-347
+  title: >-
+    Explainable Deep Learning and Virtual Evolution Identifies Antimicrobial
+    Peptides with Activity Against Multidrug-Resistant Human Pathogens
+  URL: https://www.nature.com/articles/s41564-024-01907-3
+  volume: '10'
+
+- accessed:
+    - year: 2022
+      month: 6
+      day: 16
+  author:
+    - family: Wu
+      given: Changsong
+    - family: Cui
+      given: Meihui
+    - family: Cai
+      given: Li
+    - family: Chen
+      given: Chen
+    - family: Zhu
+      given: Xiaohui
+    - family: Wu
+      given: Yihan
+    - family: Liu
+      given: Jinliang
+    - family: Wang
+      given: Hanjie
+    - family: Zhang
+      given: Yong
+  container-title: ACS Applied Materials & Interfaces
+  container-title-short: ACS Appl. Mater. Interfaces
+  DOI: 10.1021/acsami.2c01138
+  ISSN: 1944-8244, 1944-8252
+  issue: '11'
+  issued:
+    - year: 2022
+      month: 3
+      day: 23
+  page: 13094-13106
+  title: >-
+    NIR-Responsive Photodynamic Nanosystem Combined with Antitumor Immune
+    Optogenetics Bacteria for Precise Synergetic Therapy
+  URL: https://pubs.acs.org/doi/10.1021/acsami.2c01138
+  volume: '14'
+
+- accessed:
+    - year: 2019
+      month: 3
+      day: 6
+  author:
+    - family: Wu
+      given: Yihan
+    - family: Seyedsayamdost
+      given: Mohammad R.
+  container-title: Biochemistry
+  DOI: 10.1021/acs.biochem.8b00678
+  ISSN: 0006-2960, 1520-4995
+  issue: '29'
+  issued:
+    - year: 2018
+      month: 7
+      day: 24
+  page: 4247-4251
+  title: >-
+    The Polyene Natural Product Thailandamide a Inhibits Fatty Acid Biosynthesis
+    in Gram-Positive and Gram-Negative Bacteria
+  URL: http://pubs.acs.org/doi/10.1021/acs.biochem.8b00678
+  volume: '57'
+
+- accessed:
+    - year: 2018
+      month: 1
+      day: 22
+  author:
+    - family: Wu
+      given: Yihan
+    - family: Seyedsayamdost
+      given: Mohammad R.
+  container-title: Cell Chemical Biology
+  container-title-short: Cell Chem. Biol.
+  DOI: 10.1016/j.chembiol.2017.08.024
+  ISSN: '24519456'
+  issue: '12'
+  issued:
+    - year: 2017
+      month: 12
+  page: 1437-1444
+  title: >-
+    Synergy and Target Promiscuity Drive Structural Divergence in Bacterial
+    Alkylquinolone Biosynthesis
+  URL: http://linkinghub.elsevier.com/retrieve/pii/S2451945617303227
+  volume: '24'
+
+- accessed:
+    - year: 2025
+      month: 1
+      day: 15
+  author:
+    - family: Xu
+      given: Wei
+    - family: Liu
+      given: Zhen
+    - family: Wang
+      given: Jing
+    - family: Jin
+      given: Kai
+    - family: Yue
+      given: Lulu
+    - family: Yu
+      given: Lin
+    - family: Niu
+      given: Luqi
+    - family: Dou
+      given: Qingqing
+    - family: Liu
+      given: Jinliang
+    - family: Zhang
+      given: Yuzhe
+    - family: Zhu
+      given: Xiaohui
+    - family: Wu
+      given: Yihan
+  container-title: Journal of Colloid and Interface Science
+  container-title-short: Journal of Colloid and Interface Science
+  DOI: 10.1016/j.jcis.2024.11.225
+  ISSN: '00219797'
+  issued:
+    - year: 2025
+      month: 3
+  page: 608-618
+  title: >-
+    Extending Visual Range of Bacteria with Upconversion Nanoparticles and
+    Constructing NIR-Responsive Bio-Microrobots
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0021979724028121
+  volume: '682'
+
+- accessed:
+    - year: 2020
+      month: 2
+      day: 8
+  author:
+    - family: Xu
+      given: Fei
+    - family: Wu
+      given: Yihan
+    - family: Zhang
+      given: Chen
+    - family: Davis
+      given: Katherine M.
+    - family: Moon
+      given: Kyuho
+    - family: Bushin
+      given: Leah B.
+    - family: Seyedsayamdost
+      given: Mohammad R.
+  container-title: Nature Chemical Biology
+  container-title-short: Nat Chem Biol
+  DOI: 10.1038/s41589-018-0193-2
+  ISSN: 1552-4450, 1552-4469
+  issue: '2'
+  issued:
+    - year: 2019
+      month: 2
+  page: 161-168
+  title: >-
+    A Genetics-Free Method for High-Throughput Discovery of Cryptic Microbial
+    Metabolites
+  URL: http://www.nature.com/articles/s41589-018-0193-2
+  volume: '15'
+
+- accessed:
+    - year: 2022
+      month: 6
+      day: 16
+  author:
+    - family: Yuan
+      given: Shanshan
+    - family: Wang
+      given: Jing
+    - family: Xiang
+      given: Yi
+    - family: Zheng
+      given: Shanshan
+    - family: Wu
+      given: Yihan
+    - family: Liu
+      given: Jinliang
+    - family: Zhu
+      given: Xiaohui
+    - family: Zhang
+      given: Yong
+  container-title: Small
+  container-title-short: Small
+  DOI: 10.1002/smll.202200020
+  ISSN: 1613-6810, 1613-6829
+  issue: '24'
+  issued:
+    - year: 2022
+      month: 6
+  page: '2200020'
+  title: >-
+    Shedding Light on Luminescent Janus Nanoparticles: From Synthesis to
+    Photoluminescence and Applications
+  title-short: Shedding Light on Luminescent Janus Nanoparticles
+  URL: https://onlinelibrary.wiley.com/doi/10.1002/smll.202200020
+  volume: '18'
+
+- accessed:
+    - year: 2025
+      month: 1
+      day: 15
+  author:
+    - family: Yue
+      given: Lulu
+    - family: Liu
+      given: Yilin
+    - family: Wang
+      given: Jing
+    - family: Wu
+      given: Yihan
+    - family: Liu
+      given: Jinliang
+    - family: Zhang
+      given: Zhen
+    - family: Zhang
+      given: Yong
+    - family: Zhu
+      given: Xiaohui
+  container-title: Nano Letters
+  container-title-short: Nano Lett.
+  DOI: 10.1021/acs.nanolett.4c04719
+  ISSN: 1530-6984, 1530-6992
+  issue: '48'
+  issued:
+    - year: 2024
+      month: 12
+      day: 4
+  license: https://doi.org/10.15223/policy-029
+  page: 15406-15413
+  title: >-
+    Rechargeable Afterglow Superclusters for NIR-Excitable Repetitive
+    Phototherapy
+  URL: https://pubs.acs.org/doi/10.1021/acs.nanolett.4c04719
+  volume: '24'
+
+- accessed:
+    - year: 2025
+      month: 1
+      day: 15
+  author:
+    - family: Yu
+      given: Lin
+    - family: Liu
+      given: Zhen
+    - family: Xu
+      given: Wei
+    - family: Jin
+      given: Kai
+    - family: Liu
+      given: Jinliang
+    - family: Zhu
+      given: Xiaohui
+    - family: Zhang
+      given: Yong
+    - family: Wu
+      given: Yihan
+  container-title: Acta Pharmaceutica Sinica B
+  container-title-short: Acta Pharmaceutica Sinica B
+  DOI: 10.1016/j.apsb.2023.11.007
+  ISSN: '22113835'
+  issue: '3'
+  issued:
+    - year: 2024
+      month: 3
+  page: 1111-1131
+  title: >-
+    Towards Overcoming Obstacles of Type II Photodynamic Therapy: Endogenous
+    Production of Light, Photosensitizer, and Oxygen
+  title-short: Towards Overcoming Obstacles of Type Ii Photodynamic Therapy
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S2211383523004306
+  volume: '14'
+
+- accessed:
+    - year: 2025
+      month: 9
+      day: 26
+  author:
+    - family: Zhang
+      given: Yue
+    - family: Niu
+      given: Luqi
+    - family: Jin
+      given: Kai
+    - family: Huang
+      given: Yi
+    - family: Zhong
+      given: Yuwei
+    - family: Pan
+      given: Ting
+    - family: Liu
+      given: Jinliang
+    - family: Zhu
+      given: Xiaohui
+    - family: Wu
+      given: Yihan
+  container-title: ACS Applied Materials & Interfaces
+  container-title-short: ACS Appl. Mater. Interfaces
+  DOI: 10.1021/acsami.5c01404
+  ISSN: 1944-8244, 1944-8252
+  issue: '23'
+  issued:
+    - year: 2025
+      month: 6
+      day: 11
+  license: https://doi.org/10.15223/policy-029
+  page: 33370-33380
+  title: >-
+    Engineered Bioluminescent Nano-Bacteria Biohybrids Powering Self-Driven
+    Photodynamic and Photothermal Synergistic Cancer Treatment
+  URL: https://pubs.acs.org/doi/10.1021/acsami.5c01404
+  volume: '17'
+
+- accessed:
+    - year: 2025
+      month: 9
+      day: 26
+  author:
+    - family: Zhang
+      given: Ran
+    - family: Wang
+      given: Beilun
+    - family: Wang
+      given: Chang
+    - family: Huang
+      given: Kaihong
+    - family: Li
+      given: Zhaoguo
+    - family: Yang
+      given: Jinling
+    - family: Kuang
+      given: Jingyu
+    - family: Ren
+      given: Lihan
+    - family: Wu
+      given: Mengjun
+    - family: Zhang
+      given: Kai
+    - family: Xie
+      given: Han
+    - family: Liu
+      given: Yu
+    - family: Wu
+      given: Min
+    - family: Wu
+      given: Yihan
+    - family: Xu
+      given: Fei
+  container-title: Synthetic and Systems Biotechnology
+  container-title-short: Synthetic and Systems Biotechnology
+  DOI: 10.1016/j.synbio.2025.01.006
+  ISSN: 2405805X
+  issue: '2'
+  issued:
+    - year: 2025
+      month: 6
+  page: 600-609
+  title: A Two-Stage Metabolome Refining Pipeline for Natural Products Discovery
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S2405805X25000067
+  volume: '10'
+
+- accessed:
+    - year: 2022
+      month: 3
+      day: 16
+  author:
+    - family: Zhou
+      given: Chen
+    - family: Yang
+      given: Yuhui
+    - family: Tian
+      given: Jingyi
+    - family: Wu
+      given: Yihan
+    - family: An
+      given: Faliang
+    - family: Li
+      given: Changfu
+    - family: Zhang
+      given: Yansheng
+  container-title: The Plant Journal
+  container-title-short: The Plant Journal
+  DOI: 10.1111/tpj.15604
+  ISSN: 0960-7412, 1365-313X
+  issue: '4'
+  issued:
+    - year: 2022
+      month: 2
+  page: 940-951
+  title: >-
+    22*R*‐ but Not 22*S*‐Hydroxycholesterol Is Recruited for Diosgenin
+    Biosynthesis
+  URL: https://onlinelibrary.wiley.com/doi/10.1111/tpj.15604
+  volume: '109'
+...

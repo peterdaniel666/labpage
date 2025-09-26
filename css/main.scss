@@ -3,6 +3,22 @@
     
 @import "bootstrap";
 
+$clr-bg:#F5F1ED;
+$clr-purple:#873C8B;
+$clr-blue:#00225D;
+$clr-org:#DE5702;
+$clr-white:#ffffff;
+
+@font-face {
+	font-family: 'Goldman';
+	src: url('{{ site.url }}{{ site.baseurl }}/fonts/Goldman-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Audiowide';
+	src: url('{{ site.url }}{{ site.baseurl }}/fonts/Audiowide-Regular.ttf') format('truetype');
+}
+
 img { margin-bottom: 24px; 
      margin-top: 17px; 
     border-radius:2%;
@@ -11,6 +27,8 @@ img { margin-bottom: 24px;
 
 body {
 	padding-top: 70px;
+	background-color: $clr-bg;
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 figcaption {
@@ -19,10 +37,29 @@ figcaption {
     margin-bottom: 20px;
 }
 
-
+/* Footer */
+.panel-footer{
+	background-color: $clr-org;
+	color: $clr-white;
+}
 
 /* Top navigation bar */
+.nav.navbar-nav>li>a {
+	color: $clr-white;
+	font-family: 'Goldman', Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
 
+.navbar-fixed-top {
+	background-color: $clr-purple;
+	height: 60px;
+}
+
+.brand-text{
+	font-family: 'Audiowide', sans-serif;
+	color:$clr-white;
+	font-size: 25px;
+}
 
 p.byline {
 	text-align: center;
