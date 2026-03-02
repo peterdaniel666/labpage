@@ -8,6 +8,7 @@ $clr-purple:#873C8B;
 $clr-blue:#00225D;
 $clr-org:#DE5702;
 $clr-white:#ffffff;
+$clr-black:#000000;
 
 @font-face {
 	font-family: 'Goldman';
@@ -41,6 +42,15 @@ figcaption {
 .panel-footer{
 	background-color: $clr-org;
 	color: $clr-white;
+}
+
+.panel-footer a {
+	color: $clr-white;
+	/* Force link color to match the footer text color */
+	font-weight: bold;
+	/* Keep the bold style as requested */
+	text-decoration: none;
+	/* Optional: removes underline */
 }
 
 /* Top navigation bar */
@@ -126,5 +136,26 @@ firstp {
     margin-top: 20px;
     margin-left: 30px;
     margin-right: 30px;
+	height: 400px;
+	margin: 0 auto;
+}
+
+#carousel .item img {
+	display: block;
+	width: auto;
+	height: 400px;
+	margin: 0 auto;
+}
+
+#carousel .carousel-caption {
+	left: 0;
+	bottom: 10px;
+	width: 100%;
+	text-align: center;
+	background: transparent;
+	color: $clr-black;
+	z-index: 20;
+	padding: 0;
+	transform: none;
 }
 

@@ -1,6 +1,39 @@
 ---
 references:
 - accessed:
+    - year: 2026
+      month: 3
+      day: 1
+  author:
+    - family: Jin
+      given: Kai
+    - family: Zhang
+      given: Yue
+    - family: Huang
+      given: Yi
+    - family: Yu
+      given: Lin
+    - family: Zhong
+      given: Yuwei
+    - family: Niu
+      given: Luqi
+    - family: Wu
+      given: Yihan
+  container-title: Advanced Healthcare Materials
+  container-title-short: Adv Healthcare Materials
+  DOI: 10.1002/adhm.202504077
+  ISSN: 2192-2640, 2192-2659
+  issued:
+    - year: 2025
+      month: 12
+      day: 17
+  page: e04077
+  title: >-
+    Biomineralized Bacterial Biohybrid for Coordinated and Self‐Sustained In
+    Situ Synthesis of Antitumor Photothermal Agent and Photosensitizer
+  URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adhm.202504077
+  
+- accessed:
     - year: 2025
       month: 9
       day: 26

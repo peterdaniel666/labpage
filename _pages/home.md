@@ -1,12 +1,18 @@
 ---
-title: "Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+title: "SynThera Group"
 layout: homelay
-excerpt: "Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+excerpt: "SynThera Group"
 sitemap: false
 permalink: /
 ---
+### **SynThera Group**
+##### **Synthetic/Chemical Biology & Therapeutic Development**
+<p align = "justify">
+We are an interdisciplinary team of biologists, chemists, and drug development researchers working to uncover the hidden chemical diversity of living systems and translate these discoveries into new therapeutics. Our research centers on microbe-associated bioactive peptides and metabolites, including those produced by microorganisms as well as those they encounter during interactions with their environment.
+<br>
+We develop innovative tools to reveal novel biomolecules and pathways, and we harness engineered microbes as platforms for producing and optimizing drug candidates. By integrating AI-driven design with experimental biology, we aim to create a seamless pipeline from molecular discovery to therapeutic development. Ultimately, our goal is to redefine how nature-inspired molecules are discovered, engineered, and brought to medicine. We excel through teamwork, foster a culture of equality and diversity, and support every team member in learning and thriving.
+</p>
 
-We are based at the [Institute for Manufacturing](https://ifm.eng.cam.ac.uk) in the [Department of Engineering](http://www.eng.cam.ac.uk/) at the [University of Cambridge](https://cam.ac.uk) using materials chemistry, additive manufacturing, and machine learning to realize entirely new devices and materials whose structure and composition is optimized from the nano- to the macro-scale to improve interaction with the human body and enhance lives.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -15,23 +21,36 @@ We are based at the [Institute for Manufacturing](https://ifm.eng.cam.ac.uk) in 
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
+
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/materials.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/HomeSlider/AMP.jpg" alt="Slide 1" />
+              <div class="carousel-caption d-none d-md-block">
+                <b>AI-based virtual evolution identifies antimicrobial peptides</b>
+              </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/printer-fleet.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/HomeSlider/ComFaceID.jpg" alt="Slide 2" />
+              <div class="carousel-caption d-none d-md-block">
+                <b>Mass spectrometry foundation model for metabolomics analysis</b>
+              </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/diw.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/HomeSlider/BacGut.jpg" alt="Slide 3" />
+                <div class="carousel-caption d-none d-md-block">
+                <b>Live bacterial therapeutics operating in gut</b>
+                </div>
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/HomeSlider/BacTumor.jpg" alt="Slide 4" />
+                <div class="carousel-caption d-none d-md-block">
+                <b>Live bacterial therapeutics operating in tumors</b>
+                </div>
+        </div>
+
         <!-- Copy more of these for more images....  -->
     </div>
 
@@ -44,19 +63,5 @@ We are based at the [Institute for Manufacturing](https://ifm.eng.cam.ac.uk) in 
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-**Photo credits:** © Felice Frankel, research scientist, Department of Chemical Engineering at MIT, Douglas Brion, PhD student, Department of Engineering at University of Cambridge
-
-
-The group is working on:
-
-**Digitally tailored medical devices**  
-Producing wearable and implantable medical devices that better mimic and integrate with patients/wearers.
-
-**Materials for additive manufacturing**  
-Developing new materials whose structure and composition enable unique functionality.
-
-**Learning 3D printers**  
-Understanding how machine learning approaches can improve the capabilities of 3D printers.
 
 <br>

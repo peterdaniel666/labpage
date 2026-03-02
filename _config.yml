@@ -6,24 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Complex Additive Materials Group | Department of Engineering at the University of Cambridge
+title: Wu Lab | Nanjing University
 tagline: >
-  Researching materials
-  chemistry, additive manufacturing, and machine learning
-  to realize entirely new devices and materials to improve
-  interaction with the human body and enhance lives.
-email: dajb3@cam.ac.uk
+  SynThera Group
+  synthetic biology, chemistry, microbiology, biomedical engineering, metabolomics, and AI to discover new chemistry, biology, and drugs.
+email: yihandaniel@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The Complex Additive Materials Group is based at the
-  Institute for Manufacturing in the Department of
-  Engineering at the University of Cambridge.
-  The group researches materials chemistry, additive manufacturing,
-  and machine learning to realize entirely new devices
-  and materials whose structure and composition is
-  optimized from the nano- to the macro-scale, to improve
-  interaction with the human body and enhance lives.
+  The Group is based at the Chemistry and Biomedical Innovation Center and School of Life Sciences at Nanjing University. It conducts research in synthetic biology, chemistry, microbiology, biomedical engineering, metabolomics, and artificial intelligence to uncover novel chemical and biological insights and develop innovative therapeutics.
 baseurl: ""
-url: "https://cam-cambridge.github.io"
+url: ""
 lang: en_GB
 
 include:

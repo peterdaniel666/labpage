@@ -1,7 +1,7 @@
 ---
-title: "News | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+title: "News | SynThera Group"
 layout: textlay
-excerpt: "News | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+excerpt: "News | SynThera Group"
 sitemap: false
 permalink: /allnews.html
 ---
