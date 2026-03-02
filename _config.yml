@@ -14,7 +14,7 @@ email: yihandaniel@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The Group is based at the Chemistry and Biomedical Innovation Center and School of Life Sciences at Nanjing University. It conducts research in synthetic biology, chemistry, microbiology, biomedical engineering, metabolomics, and artificial intelligence to uncover novel chemical and biological insights and develop innovative therapeutics.
 baseurl: "/labpage"
-url: "https://peterdaniel666.github.io/"
+url: "https://peterdaniel666.github.io"
 lang: en_GB
 
 include:
