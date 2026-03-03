@@ -114,6 +114,7 @@ We invite applications for research assistant roles to support our wet lab work.
 
 请准备完整的中英文简历、过往成绩单、关于科研兴趣和申请原因/个人期望的简短描述（500字以内），投递至邮箱 yihanpeter2018(AT)163(dot)com，标题注明：本科生申请+个人姓名。本招生信息长期有效。  
 
+
 #### 期待我们的合作！
 
 
