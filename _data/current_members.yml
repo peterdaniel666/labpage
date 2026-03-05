@@ -9,10 +9,11 @@
 
 - name: Kai Jin
   photo: KaiJin.jpg
-  current_position: PhD student, 2022-
+  current_position: PhD student
   email: 
   bio: Research interest, current project, hobby...
 
 - name: Yi Huang
   photo: YiHuang.jpg
-  bio: I love drawing, reading novels, and traveling. I’m a huge fan of Lay Zhang, and I dream of becoming someone as cool and inspiring as him. I’m currently working on using genetically engineered microbes to biosynthesize antimicrobial peptides. I hope to develop live bacterial drugs and make them cheaper and more accessible than those produced through traditional chemical synthesis.
+  current_position: Master student
+  bio: I love drawing, reading novels, and traveling. I'm a huge fan of Lay Zhang, and I dream of becoming someone as cool and inspiring as him. I'm currently working on using genetically engineered microbes to biosynthesize antimicrobial peptides. I hope to develop live bacterial drugs and make them cheaper and more accessible than those produced through traditional chemical synthesis.

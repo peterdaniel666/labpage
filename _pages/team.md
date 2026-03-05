@@ -35,7 +35,9 @@ permalink: /team/
       <li>{{ item }}</li>
     {% endfor %}
   </ul>
+  {% if member.email %}
   <i>Email: {{ member.email }}</i><br>
+  {% endif %}
   <p align = 'justify'>{{ member.bio }}</p>
 </div>
 
