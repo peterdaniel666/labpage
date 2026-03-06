@@ -9,11 +9,10 @@
 
 - name: Kai Jin
   photo: KaiJin.jpg
-  current_position: PhD student
-  email: 
-  bio: Research interest, current project, hobby...
+  current_position: PhD student 
+  bio: My research sits at the intersection of synthetic biology and cancer therapy. I focus on engineering bacteria as programmable living therapeutics that can sense the tumor microenvironment and release therapeutic molecules directly at the tumor site. I'm especially interested in building synthetic biological systems that combine different treatment strategies, like phototherapy and immunotherapy, to make cancer therapies more precise and effective. Outside the lab, I enjoy playing badminton, going for a jog, and exploring new places.
 
 - name: Yi Huang
   photo: YiHuang.jpg
   current_position: Master student
-  bio: I love drawing, reading novels, and traveling. I'm a huge fan of Lay Zhang, and I dream of becoming someone as cool and inspiring as him. I'm currently working on using genetically engineered microbes to biosynthesize antimicrobial peptides. I hope to develop live bacterial drugs and make them cheaper and more accessible than those produced through traditional chemical synthesis.
+  bio: I love drawing, reading novels, and traveling. I'm a huge fan of Lay Zhang, and I dream of becoming someone as cool and inspiring as him. I'm currently working on discovering new bioactive peptides and using genetically engineered microbes to biosynthesize antimicrobial peptides. I hope to develop live bacterial drugs and make them cheaper and more accessible than those produced through traditional chemical synthesis.
