@@ -10,9 +10,14 @@
 - name: Kai Jin
   photo: KaiJin.jpg
   current_position: PhD student 
-  bio: My research sits at the intersection of synthetic biology and cancer therapy. I focus on engineering bacteria as programmable living therapeutics that can sense the tumor microenvironment and release therapeutic molecules directly at the tumor site. I'm especially interested in building synthetic biological systems that combine different treatment strategies, like phototherapy and immunotherapy, to make cancer therapies more precise and effective. Outside the lab, I enjoy playing badminton, going for a jog, and exploring new places.
+  bio: My research bridges synthetic biology and microbial functional molecules. I engineer bacteria as programmable living therapeutics that can sense the tumor microenvironment and produce therapeutic molecules directly at the tumor site. I am interested in developing synthetic biological systems that integrate multiple treatment modalities, such as phototherapy and immunotherapy, to make cancer therapies more precise and effective. I also study bioactive molecules associated with microbes to uncover their biological functions and identify new opportunities for therapeutic development. Outside the lab, I enjoy playing badminton, going for a jog, and exploring new places.
 
 - name: Yi Huang
   photo: YiHuang.jpg
   current_position: Master student
   bio: I love drawing, reading novels, and traveling. I'm a huge fan of Lay Zhang, and I dream of becoming someone as cool and inspiring as him. I'm currently working on discovering new bioactive peptides and using genetically engineered microbes to biosynthesize antimicrobial peptides. I hope to develop live bacterial drugs and make them cheaper and more accessible than those produced through traditional chemical synthesis.
+
+- name: Lin Hu
+  photo: LinHu.jpg
+  current_position: Master student
+  bio: My research focuses on developing engineered microbes into smart live therapeutics. I build genetic circuits into these bacteria so that they can sense disease signals in the body and release therapeutic molecules only when and where they are needed. Outside the lab, I like to unwind by going for a jog. I also enjoy playing video games with friends—especially the teamwork and coordination when we fight side by side in battles.
